@@ -1,5 +1,7 @@
 # reaching-arm-model-CTR
  
+10.5281/zenodo.17409267
+
 This is a copy of the public reaching-arm-model-2.0 written by Tiina Murtola at the RVC, 2022,2023
 It has been modified by Chris Richards at the RVC, 2023 to explore perturbations, feedback vs feedforward control
 and reach speed effects.  
